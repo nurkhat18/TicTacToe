@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Java Project
-![Example Image](images/Screenshot 2023-10-09 at 1.46.15 AM.png)
+(images/Screenshot 2023-10-09 at 1.46.15 AM.png)
 
 ## Introduction
 Welcome to the Tic-Tac-Toe Java project! This versatile project allows you to play the classic Tic-Tac-Toe game in multiple ways: in the console, using a JavaFX graphical user interface (GUI), and even against AI bots of varying difficulty levels. Whether you prefer a simple text-based interface, clickable buttons, or visual representations of X and O, this project has it all.
