@@ -1,9 +1,10 @@
 # Tic-Tac-Toe Java Project
-<div <img src="images/button.png" alt="Alt Text" width="250">
-<img src="images/text.png" alt="Alt Text" width="250">
-<img src="images/drawing.png" alt="Alt Text" width="250">
 
-    />
+<div>
+    <img src="images/button.png" alt="Alt Text" width="250">
+    <img src="images/text.png" alt="Alt Text" width="250">
+    <img src="images/drawing.png" alt="Alt Text" width="250">
+</div>
 
 
 ## Introduction
