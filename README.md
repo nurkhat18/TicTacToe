@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Java Project
-<img src="images/button.png" alt="Alt Text" width="480" height="180">
+<img src="images/button.png" alt="Alt Text" width="480">
 ![Alt Text](images/button.png)
 
 ## Introduction
@@ -16,14 +16,14 @@ This project is divided into the following components:
 The JavaFX GUI offers three different views for playing Tic-Tac-Toe:
 
 #### a. Text View
-<img src="images/text.png" alt="Alt Text" width="480" height="180">
+<img src="images/text.png" alt="Alt Text" width="480">
 ![Alt Text](images/text.png)
 - A GUI interface that closely resembles the console-based gameplay.
 - Players are prompted to input the row and column to make their moves.
 - Suitable for players who prefer a familiar text-based interface with clickable buttons.
 
 #### b. Button View
-<img src="images/button.png" alt="Alt Text" width="480" height="180">
+<img src="images/button.png" alt="Alt Text" width="480">
 ![Alt Text](images/button.png)
 
 - A more graphical interface with clickable buttons for each cell.
@@ -31,7 +31,7 @@ The JavaFX GUI offers three different views for playing Tic-Tac-Toe:
 - Provides a visually appealing way to play the game.
 
 #### c. Drawing View
-<img src="images/text.png" alt="Alt Text" width="480" height="180">
+<img src="images/text.png" alt="Alt Text" width="480">
 ![Alt Text](images/drawing.png)
 - Offers a visual representation of X and O using images.
 - Players can click cells to place their symbols.
