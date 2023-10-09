@@ -73,10 +73,5 @@ Feel free to customize and extend this project to add more features or improve t
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes. Contributions such as bug fixes, enhancements, and additional features are appreciated.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-This project was inspired by the classic Tic-Tac-Toe game and the Java community's contributions to game development. Special thanks to all contributors and resources that have helped make this project a reality.
 
 Enjoy playing Tic-Tac-Toe, whether in the console or via the JavaFX GUI, and have fun exploring the different gameplay views and AI opponents!
