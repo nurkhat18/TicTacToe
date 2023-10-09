@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Java Project
-<img src="images/button.png" alt="Alt Text" width="200" height="100">
+<img src="images/button.png" alt="Alt Text" width="400" height="300">
 ![Alt Text](images/button.png)
 
 ## Introduction
