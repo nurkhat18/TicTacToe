@@ -21,6 +21,7 @@ This project is divided into the following components:
 The JavaFX GUI offers three different views for playing Tic-Tac-Toe:
 
 #### a. Text View
+<img src="images/text.png" alt="Alt Text" width="480">
 
 - A GUI interface that closely resembles the console-based gameplay.
 - Players are prompted to input the row and column to make their moves.
