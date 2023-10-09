@@ -36,7 +36,7 @@ The JavaFX GUI offers three different views for playing Tic-Tac-Toe:
 - Provides a visually appealing way to play the game.
 
 #### c. Drawing View
-<img src="images/text.png" alt="Alt Text" width="480">
+<img src="images/drawing.png" alt="Alt Text" width="480">
 
 - Offers a visual representation of X and O using images.
 - Players can click cells to place their symbols.
