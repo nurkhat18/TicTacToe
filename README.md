@@ -1,8 +1,9 @@
 # Tic-Tac-Toe Java Project
-<img src="images/button.png" alt="Alt Text" width="250">
+<div <img src="images/button.png" alt="Alt Text" width="250">
 <img src="images/text.png" alt="Alt Text" width="250">
 <img src="images/drawing.png" alt="Alt Text" width="250">
-![Alt Text](images/button.png) ![Alt Text](images/text.png) ![Alt Text](images/drawing.png)
+
+    />
 
 
 ## Introduction
