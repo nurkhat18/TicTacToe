@@ -1,6 +1,9 @@
 # Tic-Tac-Toe Java Project
 <img src="images/button.png" alt="Alt Text" width="250">
-![Alt Text](images/button.png)
+<img src="images/text.png" alt="Alt Text" width="250">
+<img src="images/drawing.png" alt="Alt Text" width="250">
+![Alt Text](images/button.png) ![Alt Text](images/text.png) ![Alt Text](images/drawing.png)
+
 
 ## Introduction
 Welcome to the Tic-Tac-Toe Java project! This versatile project allows you to play the classic Tic-Tac-Toe game in multiple ways: in the console, using a JavaFX graphical user interface (GUI), and even against AI bots of varying difficulty levels. Whether you prefer a simple text-based interface, clickable buttons, or visual representations of X and O, this project has it all.
@@ -16,8 +19,7 @@ This project is divided into the following components:
 The JavaFX GUI offers three different views for playing Tic-Tac-Toe:
 
 #### a. Text View
-<img src="images/text.png" alt="Alt Text" width="480">
-![Alt Text](images/text.png)
+
 - A GUI interface that closely resembles the console-based gameplay.
 - Players are prompted to input the row and column to make their moves.
 - Suitable for players who prefer a familiar text-based interface with clickable buttons.
